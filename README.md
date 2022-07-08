@@ -62,9 +62,42 @@ Capitulo 10
 Capitulo 9
 --------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/105722861/177930318-6e15a6be-cb1c-4207-91b6-65a942760103.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177930594-b1bba855-417a-4d85-9be4-ca324c87e287.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177930704-97cc11e8-37a2-459c-9d61-25e855718b8e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177930980-9ac3202f-227a-4184-a9a9-72139004b273.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177931388-4af9bc4d-9021-48b7-b7f5-8014a9702857.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177931920-d7b4c4e6-0d2d-4cf3-8569-741ecfd56c0c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177932440-57c8dbff-8192-4203-b368-e5295257ce6e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177932531-07c59ce9-9e53-4b95-bec0-c9f14d13df72.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177932625-c39a9dd9-7bab-44ac-9078-d5c3d36c2c6e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177932810-8b1e74bb-bdb0-4476-8509-1210b6e8b882.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177932935-0ab7b166-b4f2-4392-aa62-2c68bc29868d.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177933141-a3eac59a-328d-403d-acf4-89eb2617aaff.png)
+
 --------------------------------------------------------------------------------------------------
 Capitulo 10
 --------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/105722861/177933286-267746ca-0512-4054-bac0-a5e98d17d68e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177933478-cbe2fe50-444e-4def-81ba-ced1f593cd7b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177933727-7b69a3ff-a1d2-4ffb-8ae7-f6b97b71a397.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177934072-f6a753cd-8ca7-4ea4-bb6c-d375bee20def.png)
+
 
 4.- VIDEO
 
