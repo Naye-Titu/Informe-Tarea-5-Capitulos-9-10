@@ -11,7 +11,16 @@ Informe de Tarea
 --------------------------------------------------------------------------------------------------
 
 1.- OBJETIVOS
+
+* Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos de mallas y nodos para hallas los valores de las corrientes y voltajes correspondientes.
+
+* Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de formateórica.
+
+* Establecer los diferentes conocimientos sobre los campos magneticos, sus componentes y caracteristicas dentro de elementos.
+
+
 2.- MARCO TEÓRICO
+
 --------------------------------------------------------------------------------------------------
 Capitulo 9
 --------------------------------------------------------------------------------------------------
@@ -60,6 +69,8 @@ Capitulo 10
 4.- VIDEO
 
 5.- CONCLUSIONES
+
+* El presente analisis permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos de practicas anteriores, otrogo resultados confiables ya que fueron simulados, cada circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del tema.
 
 6.- BIBLIOGRAFÍA
 
